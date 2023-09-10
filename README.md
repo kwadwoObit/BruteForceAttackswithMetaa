@@ -1,6 +1,5 @@
 <h1>Brute Force Attack with Metasploit</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Project consists of a Brute Force Attack on an open SSH port found after an assessment, this walks you through how metasploit is used to search for SSH, look for auxillary model/ssh_login, set threads, set pass_file, set rhosts, set username, set verbose and run it for execution. 
