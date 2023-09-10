@@ -1,4 +1,4 @@
-<h1>Brute Force Attack with Metasploit</h1>
+<h1>Brute Force Attack with Metasploit Home Lab</h1>
 
 
 <h2>Description</h2>
